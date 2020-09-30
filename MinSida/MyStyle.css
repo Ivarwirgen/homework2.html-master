@@ -44,15 +44,23 @@ body {
   color: white;
 }
 
-
 a {
   text-decoration: none;
+  color: #f3f3f3;
 }
+
+
 h1 {
   color: #f3f3f3;
   text-align: center;
 }
 
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+}
 
 .flip-box {
   background-color: transparent;
@@ -138,10 +146,20 @@ table.spacing2 {
   color: #bbb;
 }
 
+.header5 {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 15px;
+  background-color: #000;
+  color: #bbb;
+  text-align: center;
+}
+
+
 .header2 {
   font-family: Georgia, 'Times New Roman', Times, serif;
   color: #bbb;
   margin-top: 25%;
+  text-decoration: none;
 }
 
 .text-heading {
