@@ -12,3 +12,19 @@ header {
   text-align: center;
   
 }
+
+.boxedtext {
+  border: 3px solid #000000;
+  background-color: cornsilk;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-size: 15px;
+  margin-top: 4vw;
+  width: 33%;
+  margin-left: 32vw;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: #000000;
+}
